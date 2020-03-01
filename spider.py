@@ -45,8 +45,8 @@ def handle_popup():
 handle_popup()
 
 # Get table elements and start loop (for every fund in the paginated 10):
-for counter, result in enumerate(range(0,10)):
-    continue
+# for counter, result in enumerate(range(0,10)):
+#     continue
 
 # locate i'th fund to click on
 # fund_clickable = driver.find_elements_by_class_name("mds-link mds-link--no-underline ec-table__investment-link")
